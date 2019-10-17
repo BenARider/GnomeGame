@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "{A60D13FA-46EF-BF52-A76E-76BF605009FB}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GnomeProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
