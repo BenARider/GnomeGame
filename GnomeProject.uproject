@@ -1,13 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{A60D13FA-46EF-BF52-A76E-76BF605009FB}",
+	"EngineAssociation": "{655DD49C-4008-BD64-9513-14B5D0C13617}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
 			"Name": "GnomeProject",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
